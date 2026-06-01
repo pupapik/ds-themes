@@ -29,7 +29,7 @@ All themes in this repository include a built-in **Smart Performance Saver** (Au
 | :--- | :--- | :--- | :--- |
 | **Reze Edition** | Chainsaw Man aesthetic, deep wine/purple colors with a GIF background. | `#4B2C6B`, `#8E4D6E` | [reze.css Link](https://raw.githubusercontent.com/pupapik/ds-themes/main/reze.css) |
 | **Black and Gray Edition** | Just a Black and Gray Build. | `#4a4a4a`, `#333333` | [black&gray.css Link](https://raw.githubusercontent.com/pupapik/ds-themes/refs/heads/main/black%26gray.css) |
-| **Tokyo Ghoul Edition** | Gray Tokyo Ghoul Build. | `#4d4753`, `#fffff` | [tokyo-ghoul.css Link]([https://raw.githubusercontent.com/pupapik/ds-themes/refs/heads/main/black%26gray.css](https://raw.githubusercontent.com/pupapik/ds-themes/refs/heads/main/tokyo-ghoul.css)) |
+| **Tokyo Ghoul Edition** | Gray Tokyo Ghoul Build. | `#4d4753`, `#fffff` | [tokyo-ghoul.css Link](https://raw.githubusercontent.com/pupapik/ds-themes/refs/heads/main/tokyo-ghoul.css)) |
 | *More coming soon...* | *New themes will be added here.* | *TBD* | *TBD* |
 
 ---

@@ -1,7 +1,7 @@
 # 🎨 ds-themes — Custom Discord Themes Hub
 
 <p align="center">
-  <img src="https://images.catbox.moe/ypxneb.gif" width="100%" alt="Reze Theme Preview">
+  <img src="https://i.imgur.com/vHqY7Z8.gif" width="100%" alt="Reze Theme Preview">
 </p>
 
 ![License](https://img.shields.io/github/license/pupapik/ds-themes?style=flat-edge)
@@ -55,5 +55,6 @@ You can use these themes either by linking them directly or by downloading a lig
      /* You can override any specific variables here if you want */
      /* --main-color: #your_color; */
    }
+
 
 

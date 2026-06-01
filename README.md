@@ -1,5 +1,9 @@
 # 🎨 ds-themes — Custom Discord Themes Hub
 
+<p align="center">
+  <img src="https://files.catbox.moe/ypxneb.gif" width="600" alt="Reze Theme Preview">
+</p>
+
 ![License](https://img.shields.io/github/license/pupapik/ds-themes?style=flat-edge)
 ![Maintained](https://img.shields.io/badge/maintained-yes-green?style=flat-edge)
 

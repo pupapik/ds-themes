@@ -1,7 +1,7 @@
 /**
  * @name Black and Gray
  * @author pupapik
- * @version 1.0.0
+ * @version 1.0.1
  * @description Black and Gray Build
  */
 
@@ -78,7 +78,7 @@ body:not(:hover) .bg__960e4 {
 }
 
 .info__2debe::after, [class*="sidebar_"] [class*="info_"]::after {
-    content: "ClearVision by pupapik v1.0.0" !important;
+    content: "ClearVision by pupapik v1.0.1" !important;
     color: var(--text-muted) !important;
     font-size: 12px !important;
     line-height: 1.3333333333 !important;

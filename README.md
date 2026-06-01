@@ -26,16 +26,7 @@ All themes in this repository include a built-in **Smart Performance Saver** (Au
 
 You can use these themes either by linking them directly or by downloading a lightweight local loader file.
 
-### Method 1: Remote Link (Recommended 🔄)
-*This method ensures you automatically receive all future theme updates without redownloading files.*
-
-1. Open Discord and go to **User Settings**.
-2. Find the **Vencord** section on the left sidebar and select **Themes**.
-3. Copy the **Direct Raw Link** of your chosen theme from the table above.
-4. Paste it into the **"Theme Links"** input box at the very top of the Vencord Themes page.
-5. Press **Enter**. The theme will apply instantly!
-
-### Method 2: Local Loader File (For Custom Overrides ⚙️)
+### Method 1: Local Loader File (For Custom Overrides ⚙️)
 *Use this method if you want to keep the core theme up-to-date but override specific colors or backgrounds locally.*
 
 1. Create a file named `YourThemeName.theme.css` inside your client's themes folder.

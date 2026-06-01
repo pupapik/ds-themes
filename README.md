@@ -1,6 +1,7 @@
 # 🎨 ds-themes — Custom Discord Themes Hub
 
-![](https://files.catbox.moe/ypxneb.gif)
+<img src="https://files.catbox.moe/ypxneb.gif" width="100%">
+
 
 
 ![License](https://img.shields.io/github/license/pupapik/ds-themes?style=flat-edge)

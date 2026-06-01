@@ -98,7 +98,7 @@ body:not(:hover) .bg__960e4 {
     filter: drop-shadow(0 0 5px var(--hsl-main-color))
 }
 :is(.theme-dark,.theme-light):not(.platform-osx) .leading_c38106::after{
-    content: "v1.0.0" !important;
+    content: "v1.0.1" !important;
     position: static;
     margin-top: -5px;
     margin-left: 5px;

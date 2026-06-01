@@ -18,6 +18,7 @@ All themes in this repository include a built-in **Smart Performance Saver** (Au
 | Theme Name | Description | Accent Colors | Direct Raw Link |
 | :--- | :--- | :--- | :--- |
 | **Reze Edition** | Chainsaw Man aesthetic, deep wine/purple colors with a GIF background. | `#4B2C6B`, `#8E4D6E` | [reze.css Link](https://raw.githubusercontent.com/pupapik/ds-themes/main/reze.css) |
+| **Black and Gray Edition** | Just a Black and Gray Build. | `#4a4a4a`, `#333333` | [black&gray.css Link](https://raw.githubusercontent.com/pupapik/ds-themes/refs/heads/main/black%26gray.css) |
 | *More coming soon...* | *New themes will be added here.* | *TBD* | *TBD* |
 
 ---
@@ -32,8 +33,9 @@ You can use these themes either by linking them directly or by downloading a lig
 1. Open Discord and go to **User Settings**.
 2. Find the **Vencord** section on the left sidebar and select **Themes**.
 3. Copy the **Direct Raw Link** of your chosen theme from the table above.
-4. Paste it into the **"Theme Links"** input box at the very top of the Vencord Themes page.
-5. Press **Enter**. The theme will apply instantly!
+4. Go to **"Online Themes"**.
+5. Paste it into the **"Online Themes"** input box at the very top of the Vencord Themes page.
+6. Press **Enter**. The theme will apply instantly!
 
 ### Method 2: Local Loader File (For Custom Overrides ⚙️)
 *Use this method if you want to keep the core theme up-to-date but override specific colors or backgrounds locally.*

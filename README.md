@@ -1,7 +1,10 @@
 # 🎨 ds-themes — Custom Discord Themes Hub
 
 <p align="center">
-  <img src="assets/reze.gif" width="100%" alt="Reze Theme Preview">
+  <figure>
+    <img src="assets/reze.gif" width="100%" alt="Reze Theme Preview">
+    <figcaption><i> Preview of the Reze Edition theme build</i></figcaption>
+  </figure>
 </p>
 
 ![License](https://img.shields.io/github/license/pupapik/ds-themes?style=flat-edge)

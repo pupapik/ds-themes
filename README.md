@@ -1,8 +1,8 @@
 # 🎨 ds-themes — Custom Discord Themes Hub
 
-<img src="https://files.catbox.moe/ypxneb.gif" width="100%">
-
-
+<p align="center">
+  <img src="https://images.catbox.moe/ypxneb.gif" width="100%" alt="Reze Theme Preview">
+</p>
 
 ![License](https://img.shields.io/github/license/pupapik/ds-themes?style=flat-edge)
 ![Maintained](https://img.shields.io/badge/maintained-yes-green?style=flat-edge)
@@ -55,3 +55,5 @@ You can use these themes either by linking them directly or by downloading a lig
      /* You can override any specific variables here if you want */
      /* --main-color: #your_color; */
    }
+
+

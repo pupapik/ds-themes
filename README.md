@@ -13,7 +13,7 @@ All themes in this repository include a built-in **Smart Performance Saver** (Au
 
 ---
 
-## 📚 Available Themes / Доступные темы
+## 📚 Available Themes
 
 | Theme Name | Description | Accent Colors | Direct Raw Link |
 | :--- | :--- | :--- | :--- |

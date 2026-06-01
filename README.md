@@ -7,6 +7,13 @@
   </figure>
 </p>
 
+<p align="center">
+  <figure>
+    <img src="assets/black&gray.png" width="100%" alt="Black and Gray Preview">
+    <figcaption><i> Preview of the Black and Gray Edition theme build</i></figcaption>
+  </figure>
+</p>
+
 ![License](https://img.shields.io/github/license/pupapik/ds-themes?style=flat-edge)
 ![Maintained](https://img.shields.io/badge/maintained-yes-green?style=flat-edge)
 

@@ -8,7 +8,6 @@
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 
 :root {
-  /* Цветовая схема под Резе (Deep Purple & Wine) */
   --main-color: #4B2C6B;
   --hover-color: #8E4D6E;
   --success-color: #43b581;
@@ -19,15 +18,13 @@
   --streaming-color: #593695;
   --offline-color: #808080;
 
-  /* Твоя гифка на задний фон */
   --background-image: url(https://files.catbox.moe/ypxneb.gif);
   --background-shading-percent: 100%;
   --background-position: center;
   --background-size: cover;
   --background-attachment: fixed;
   --background-filter: saturate(1.1) brightness(0.9);
-
-  /* Привязки для профилей */
+  
   --user-popout-image: var(--background-image);
   --user-popout-position: var(--background-position);
   --user-popout-size: var(--background-size);
@@ -52,18 +49,15 @@
   --focus-color: var(--main-color);
 }
 
-/* Оптимизация Vencord: Полная заморозка, когда Дискорд теряет фокус */
 html:not(:focus-within) .bg__960e4,
 body:not(:hover) .bg__960e4 {
     animation: none !important;
     animation-play-state: paused !important;
-    background-image: none !important; /* Полностью убираем гифку из памяти видеокарты */
-    background-color: #1a1a1a !important; /* Оставляем статичный красивый темный фон */
+    background-image: none !important; 
+    background-color: #1a1a1a !important;
 }
 
-/* ======================================================== */
-/* ПОЛНЫЙ ОРИГИНАЛЬНЫЙ КОД ТЕМЫ С ТВОИМИ ПРАВКАМИ            */
-/* ======================================================== */
+
 
 @keyframes cv-channel-select{
     from{
@@ -85,7 +79,7 @@ body:not(:hover) .bg__960e4 {
     }
 }
 
-/* Изменено: Твой текст в подвале настроек */
+
 .info__2debe::after, [class*="sidebar_"] [class*="info_"]::after {
     content: "ClearVision by pupapik v1.0.0" !important;
     color: var(--text-muted) !important;
@@ -96,7 +90,7 @@ body:not(:hover) .bg__960e4 {
     display: block !important;
 }
 
-/* Изменено: Твой текст в верхнем заголовке */
+
 :is(.theme-dark,.theme-light):not(.platform-osx) .leading_c38106::before{
     content: "ClearVision by pupapik" !important;
     position: static;

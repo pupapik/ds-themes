@@ -1,11 +1,9 @@
 /**
  * @name Black and Gray
  * @author pupapik
- * @version 1.0.1
+ * @version 1.0.2
  * @description Black and Gray Build
  */
-
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 
 :root {
   --main-color: #4a4a4a;
@@ -78,7 +76,7 @@ body:not(:hover) .bg__960e4 {
 }
 
 .info__2debe::after, [class*="sidebar_"] [class*="info_"]::after {
-    content: "ClearVision by pupapik v1.0.1" !important;
+    content: "ClearVision by pupapik v1.0.2" !important;
     color: var(--text-muted) !important;
     font-size: 12px !important;
     line-height: 1.3333333333 !important;
@@ -98,7 +96,7 @@ body:not(:hover) .bg__960e4 {
     filter: drop-shadow(0 0 5px var(--hsl-main-color))
 }
 :is(.theme-dark,.theme-light):not(.platform-osx) .leading_c38106::after{
-    content: "v1.0.1" !important;
+    content: "v1.0.2" !important;
     position: static;
     margin-top: -5px;
     margin-left: 5px;
